@@ -1,0 +1,1 @@
+✍️ Updating this page on 11th May 2025, it's around midnight. Not really a frontend guy, but gave it a try using basic HTML and Bootstrap, just quickly putting things together (content is almost the same as my GitHub README). Will try to improve it someday.
