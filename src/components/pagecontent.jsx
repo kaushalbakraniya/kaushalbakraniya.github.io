@@ -77,7 +77,7 @@ function PageContent() {
                                 <div className="connect-list">
                                     <ul>
                                         <li className="mb-2">
-                                            <i className="bi bi-github"></i><a href="https://github.com/Kaushal-Bakraniya" className="mx-2 text-decoration-none">Visit GitHub Profile</a>
+                                            <i className="bi bi-github"></i><a href="https://github.com/KaushalBakraniya" className="mx-2 text-decoration-none">Visit GitHub Profile</a>
                                         </li>
                                         <li className="mb-2">
                                             <i className="bi bi-linkedin"></i><a href="https://www.linkedin.com/in/kaushal-bakraniya/" className="mx-2 text-decoration-none">Connect On LinkedIn</a>
